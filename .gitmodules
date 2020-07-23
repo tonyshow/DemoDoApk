@@ -1,0 +1,3 @@
+[submodule "OneClickPackageApk.git"]
+	path = OneClickPackageApk.git
+	url = https://github.com/tonyshow/OneClickPackageApk.git
